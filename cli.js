@@ -58,7 +58,7 @@ const ee = appdmg({
 		// https://github.com/LinusU/node-appdmg/issues/135
 		background: path.join(__dirname, 'assets/dmg-background.png'),
 		'icon-size': 160,
-		format: 'ULFO',
+		format: 'UBDZ',
 		window: {
 			size: {
 				width: 660,
